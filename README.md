@@ -1,6 +1,6 @@
 # 🎬 Ushbu YouTube video rolik
 
-[![YouTube Video](https://img.youtube.com/vi/yhOXm_Kgc10/maxresdefault.jpg)](https://www.youtube.com/watch?v=82OGzs3ZCtE)
+[![YouTube Video](https://img.youtube.com/vi/82OGzs3ZCtE/maxresdefault.jpg)](https://www.youtube.com/watch?v=82OGzs3ZCtE)
 
 # Burp Suite bilan OWASP Top 10: To‘liq Skanner Qo‘llanma
 
